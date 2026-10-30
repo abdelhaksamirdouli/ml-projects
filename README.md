@@ -33,5 +33,5 @@ The QWS dataset is **not redistributed**. Download `qws2.txt` from the [QWS data
 
 ## Author
 
-**Abdelhak Samir Douli**, PhD candidate in machine learning for fault diagnosis and control of renewable energy systems (Université de Lille / Université Sétif 1).
+**Abdelhak Samir Douli**, PhD student working on machine learning for fault diagnosis and control of renewable energy systems (Université de Lille / Université Sétif 1).
 See my research work on my [GitHub profile](https://github.com/abdelhaksamirdouli).
